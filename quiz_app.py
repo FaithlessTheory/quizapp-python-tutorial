@@ -4,27 +4,52 @@
 questions = [
     {
         "question": "What is the capital of Greece?",
-        "options": ['A: Athens', 'B: London', 'C: Berlin', 'D: Madrid'],
+        "options": ['A: Athens', 'B: Thessaloniki', 'C: Patras', 'D: Larissa'],
         "answer": "A"
     },
     {
         "question": "What is the capital of the UK?",
-        "options": ['A: Paris', 'B: London', 'C: Berlin', 'D: Madrid'],
+        "options": ['A: Manchester', 'B: London', 'C: Birmingham', 'D: Cardiff'],
         "answer": "B"
     },
     {
         "question": "What is the capital of Ecuador?",
-        "options": ['A: Paris', 'B: London', 'C: Quito', 'D: Madrid'],
+        "options": ['A: Salinas', 'B: Guayaquil', 'C: Quito', 'D: Ambato'],
         "answer": "C"
     },
     {
         "question": "What is the capital of Sweden?",
-        "options": ['A: Paris', 'B: London', 'C: Stockholm', 'D: Madrid'],
+        "options": ['A: Helsingborg', 'B: Malmö', 'C: Stockholm', 'D: Gothenburg'],
         "answer": "C"
     },
     {
         "question": "What is the capital of Italy?",
-        "options": ['A: Paris', 'B: London', 'C: Berlin', 'D: Rome'],
+        "options": ['A: Paris', 'B: Naples', 'C: Vatican', 'D: Rome'],
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of the USA?",
+        "options": ['A: New York', 'B: Seattle', 'C: LA', 'D: Washington DC'],
+        "answer": "D"
+    },
+    {
+        "question": "What is the capital of the France?",
+        "options": ['A: Paris', 'B: Marseille', 'C: Lyon', 'D: Nantes'],
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": ['A: Berlin', 'B: Frankfurt', 'C: Dresden', 'D: Hamburg'],
+        "answer": "A"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "options": ['A: St Petersburg', 'B: Tver', 'C: Moscow', 'D: Sochi'],
+        "answer": "C"
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "options": ['A: Auckland', 'B: Christchurch', 'C: Rotorua', 'D: Wellington'],
         "answer": "D"
     },
     # You can remove this comment or move it down and add more questions. You should enclose each question in their own {} brackets.
